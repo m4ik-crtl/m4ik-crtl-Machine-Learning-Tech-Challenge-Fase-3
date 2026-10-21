@@ -13,6 +13,7 @@ GOLD = DATA / "gold"
 NOTEBOOKS = RAIZ / "notebooks"
 REPORTS = RAIZ / "reports"
 IMAGES = RAIZ / "images"
+MODELS = RAIZ / "models"
 
-for _p in (DATA, GOLD, REPORTS, IMAGES):
+for _p in (DATA, GOLD, REPORTS, IMAGES, MODELS):
     _p.mkdir(parents=True, exist_ok=True)
