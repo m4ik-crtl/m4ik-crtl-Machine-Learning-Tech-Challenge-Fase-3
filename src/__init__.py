@@ -1,1 +1,1 @@
-"""Pacote-fonte do Tech Challenge Fase 3 — pipeline de ML da alfabetização."""
+"""Pipeline de ML da alfabetizacao - Tech Challenge Fase 3."""
