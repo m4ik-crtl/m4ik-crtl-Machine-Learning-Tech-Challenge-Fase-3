@@ -17,16 +17,11 @@ env/
 *.key
 *.pem
 
-# Artefatos de modelo pesados (reproduzíveis pela pipeline)
-models/*.pkl
-models/*.joblib
-
 # Sistema
 .DS_Store
 Thumbs.db
 
-# Notas pessoais de preparação de entrega — ficam FORA do repositório,
-# mas o padrão abaixo é uma rede de segurança caso algo seja movido pra cá.
+# Notas pessoais de preparação de entrega — ficam FORA do repositório.
 notas-privadas-nao-enviar/
 roteiro_video*.md
 checklist_entrega*.md
