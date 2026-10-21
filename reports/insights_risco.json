@@ -1,0 +1,30 @@
+{
+  "n_municipios_risco_alto_2025": 2402,
+  "top5_municipios_risco": [
+    {
+      "nome_municipio": "Itapicuru",
+      "sigla_uf": "BA",
+      "prob_alfabetizacao": 0.107
+    },
+    {
+      "nome_municipio": "João Dias",
+      "sigla_uf": "RN",
+      "prob_alfabetizacao": 0.132
+    },
+    {
+      "nome_municipio": "Ibiquera",
+      "sigla_uf": "BA",
+      "prob_alfabetizacao": 0.134
+    },
+    {
+      "nome_municipio": "Pedro Alexandre",
+      "sigla_uf": "BA",
+      "prob_alfabetizacao": 0.136
+    },
+    {
+      "nome_municipio": "Melgaço",
+      "sigla_uf": "PA",
+      "prob_alfabetizacao": 0.137
+    }
+  ]
+}

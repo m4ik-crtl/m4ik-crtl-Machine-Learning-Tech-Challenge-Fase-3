@@ -1,0 +1,32 @@
+{
+  "top_permutacao": {
+    "idhm_educacao": 0.1004,
+    "meta_pactuada_pct": 0.0486,
+    "regiao": 0.0444,
+    "sigla_uf": 0.0336,
+    "pct_criancas_pobres": 0.0324,
+    "pct_pobres": 0.0114,
+    "pct_6a14_fund_sem_atraso": 0.0093,
+    "idhm": 0.0057
+  },
+  "top_coeficientes_abs": {
+    "regiao_Nordeste": 0.72,
+    "sigla_uf_DF": 0.718,
+    "sigla_uf_SP": 0.612,
+    "sigla_uf_PA": 0.535,
+    "idhm_educacao": 0.511,
+    "regiao_Sul": 0.507,
+    "meta_pactuada_pct": 0.482,
+    "sigla_uf_PI": 0.355
+  },
+  "top_shap": {
+    "idhm_educacao": 0.42,
+    "meta_pactuada_pct": 0.344,
+    "regiao_Nordeste": 0.325,
+    "pct_criancas_pobres": 0.295,
+    "pct_pobres": 0.2,
+    "regiao_Sul": 0.165,
+    "pct_6a14_fund_sem_atraso": 0.146,
+    "sigla_uf_SP": 0.122
+  }
+}
