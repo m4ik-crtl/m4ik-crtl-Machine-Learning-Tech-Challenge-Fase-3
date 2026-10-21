@@ -1,0 +1,35 @@
+{
+  "n_municipios": 5571,
+  "anos": [
+    2023,
+    2024,
+    2025
+  ],
+  "media_indicador_por_ano": {
+    "2023": 48.8,
+    "2024": 49.6,
+    "2025": 56.2
+  },
+  "media_por_regiao_2025": {
+    "Nordeste": 48.3,
+    "Norte": 49.1,
+    "Sul": 56.5,
+    "Sudeste": 63.8,
+    "Centro-Oeste": 65.2
+  },
+  "top_correlacoes_com_alvo": {
+    "indicador_ano_anterior_pct": 0.907,
+    "meta_pactuada_pct": 0.657,
+    "idhm_educacao": 0.576,
+    "pct_criancas_dom_sem_fund": -0.538,
+    "idhm": 0.525,
+    "pct_6a14_fund_sem_atraso": 0.47
+  },
+  "media_por_quartil_idhm_2025": {
+    "Q1 (menor)": 41.9,
+    "Q2": 55.2,
+    "Q3": 62.0,
+    "Q4 (maior)": 65.9
+  },
+  "municipios_sem_contexto": 21
+}
