@@ -4,7 +4,10 @@
 > **alfabetizada ou não**, a partir de variáveis educacionais, territoriais e
 > socioeconômicas da camada **Gold** construída na Fase 2.
 
-Pós Tech em Machine Learning Engineering — FIAP · Tech Challenge Fase 3.
+## 🎬 Apresentação em Vídeo
+
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Apresentação-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=koxZTN4x3tY)
+<br> Pós Tech em Machine Learning Engineering — FIAP · Tech Challenge Fase 3.
 
 ![ROC do teste out-of-time 2025](images/resultado_roc.png)
 
